@@ -69,9 +69,9 @@ The dataset includes:
 
 ## 📬 Contact
 
-### **Author: ** Uzma Khatun  
+### Author : Uzma Khatun  
 
 📧 Email: [mail](uzmakhatun0205@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/uzma-khatun](https://www.linkedin.com/in/uzma-khatun-88b990334/)  
- 🔗GitHub: [github.com/uzma-khatun](https://github.com/UzmaKhatun)
+🔗GitHub: [github.com/uzma-khatun](https://github.com/UzmaKhatun)
 
